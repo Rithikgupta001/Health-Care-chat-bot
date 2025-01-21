@@ -1,5 +1,5 @@
 # :two_hearts: Health Care Chat-Bot 🤖
-Project for the 6th Semester Subject -> Machine Learning
+Project for the 7th Semester Subject -> Machine Learning on Chat-Bot
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
 
@@ -53,7 +53,8 @@ Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
 ## :suspect: Project Members
 
-- [Aryan Veturekar](https://github.com/aryanveturekar)
-- [Himanshu Singh](https://github.com/himanshusiingh)
-- [Danish Shaikh](https://github.com/danishsshaikh)
+- [Rithik Gupta](https://github.com/Rithikgupta001)
+- [Ravindra Singh](https://github.com/ravindra009)
+
+
 
